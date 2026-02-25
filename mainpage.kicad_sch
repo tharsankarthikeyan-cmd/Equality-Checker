@@ -1,0 +1,116 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "e9e6822e-c574-4b77-8c9b-88bda51f8fb0")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 127 127)
+		(size 26.67 16.51)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3fbbbe6f-9146-401c-98f9-afa74484dcc2")
+		(property "Sheetname" "BintoDec"
+			(at 126.2884 143.51 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "bcd_schematics/bin_to_dec.kicad_sch"
+			(at 154.2546 143.51 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Power" input
+			(at 130.81 143.51 270)
+			(uuid "a6e95b75-366b-48f6-adcd-26107b174fe6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "1" output
+			(at 130.81 127 90)
+			(uuid "ca3b5e11-be15-4a78-922c-eac4831f69e5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "2" output
+			(at 137.16 127 90)
+			(uuid "f63d6518-9be5-4ee0-90d7-0db31ed8678e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "3" output
+			(at 143.51 127 90)
+			(uuid "42f46c63-86fa-45f4-8950-b76d551ba7d0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "4" output
+			(at 149.86 127 90)
+			(uuid "c4d10ef7-2f5a-49f6-a82c-298678d80037")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Ground" input
+			(at 149.86 143.51 270)
+			(uuid "9b6dc423-5cf6-4e3f-a027-ecd7cc655572")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "mainpage"
+				(path "/e9e6822e-c574-4b77-8c9b-88bda51f8fb0"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
