@@ -2365,6 +2365,50 @@
 		)
 		(uuid "ffcb3c79-c129-4315-8130-1ce89af6d66a")
 	)
+	(hierarchical_label "D3"
+		(shape output)
+		(at 86.36 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0249aaec-784c-47de-9374-263873be3069")
+	)
+	(hierarchical_label "Ground"
+		(shape input)
+		(at 241.3 101.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "110b4723-ae2d-4c9b-8ee7-2a1df7e2bd5d")
+	)
+	(hierarchical_label "D2"
+		(shape output)
+		(at 68.58 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2c44aada-4639-4df5-bad6-de11d569446c")
+	)
+	(hierarchical_label "D4"
+		(shape output)
+		(at 104.14 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "31c27e75-e20e-4af5-b480-ac4af9456fee")
+	)
 	(hierarchical_label "Power"
 		(shape input)
 		(at 210.82 101.6 0)
@@ -2376,6 +2420,28 @@
 		)
 		(uuid "433c8d00-ae8f-46c8-957c-7707818f28fe")
 	)
+	(hierarchical_label "Ground"
+		(shape input)
+		(at 241.3 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7ca37fb1-9b27-4d6c-9503-96494a8d295a")
+	)
+	(hierarchical_label "Ground"
+		(shape input)
+		(at 77.47 193.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "91bc1340-8e5c-4f1d-b525-271c1af09cfc")
+	)
 	(hierarchical_label "Power"
 		(shape input)
 		(at 210.82 114.3 0)
@@ -2386,6 +2452,17 @@
 			(justify left)
 		)
 		(uuid "a4381714-72d9-433a-b08b-c9cdc4f5caa1")
+	)
+	(hierarchical_label "D1"
+		(shape output)
+		(at 52.07 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b3fa1419-f58c-4289-9d1c-07a253376bc2")
 	)
 	(hierarchical_label "Power"
 		(shape input)
@@ -3380,7 +3457,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "3adfdc27-169a-48ab-93a2-ced2f794251c")
+			(uuid "3adfdc27-169a-48ab-93a2-ced2f794251d")
 		)
 		(instances
 			(project ""
@@ -5069,7 +5146,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "cfd5583f-fd7f-47dc-bb6e-bd0d5c215154")
+			(uuid "cfd5583f-fd7f-47dc-bb6e-bd0d5c215155")
 		)
 		(instances
 			(project ""

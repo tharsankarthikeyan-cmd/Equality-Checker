@@ -30,7 +30,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "bcd_schematics/bin_to_dec.kicad_sch"
+		(property "Sheetfile" "bcd_schematics/schematics_sch.kicad_sch"
 			(at 154.2546 143.51 90)
 			(effects
 				(font
