@@ -39,19 +39,9 @@
 				(justify left top)
 			)
 		)
-		(pin "Power" input
-			(at 130.81 143.51 270)
-			(uuid "a6e95b75-366b-48f6-adcd-26107b174fe6")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "1" output
-			(at 130.81 127 90)
-			(uuid "ca3b5e11-be15-4a78-922c-eac4831f69e5")
+			(at 132.08 127 90)
+			(uuid "2d10c206-5b1a-46b4-bc6f-bc98cf2b4f23")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -60,8 +50,8 @@
 			)
 		)
 		(pin "2" output
-			(at 137.16 127 90)
-			(uuid "f63d6518-9be5-4ee0-90d7-0db31ed8678e")
+			(at 138.43 127 90)
+			(uuid "95414121-ca3e-4e83-8f73-a9fc9a68fb32")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -70,8 +60,8 @@
 			)
 		)
 		(pin "3" output
-			(at 143.51 127 90)
-			(uuid "42f46c63-86fa-45f4-8950-b76d551ba7d0")
+			(at 144.78 127 90)
+			(uuid "99c10d18-4f1a-4ece-a823-75eeb21ae3a2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -80,8 +70,8 @@
 			)
 		)
 		(pin "4" output
-			(at 149.86 127 90)
-			(uuid "c4d10ef7-2f5a-49f6-a82c-298678d80037")
+			(at 151.13 127 90)
+			(uuid "9a9322cc-6b65-4598-ae35-1ff056d5521e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -90,8 +80,18 @@
 			)
 		)
 		(pin "Ground" input
-			(at 149.86 143.51 270)
-			(uuid "9b6dc423-5cf6-4e3f-a027-ecd7cc655572")
+			(at 147.32 143.51 270)
+			(uuid "e50ba077-e1ee-4d4e-a69a-d580b750a828")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Power" input
+			(at 134.62 143.51 270)
+			(uuid "9e295f47-d9fe-4786-9a46-ef16c035af51")
 			(effects
 				(font
 					(size 1.27 1.27)
